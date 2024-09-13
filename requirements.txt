@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-groq
+streamlit 
+arxiv
+wikipedia
+faiss-cpu
+langchain-core
